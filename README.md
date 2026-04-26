@@ -4,7 +4,7 @@ This repository contains the code used to reproduce all results, and experiments
 
 ## Contents
 
-- `00_setup_sample_data.py` - Code to generate sample dataset
+- `00_setup_sample_data.py` - Code to register both tables in Unity Catalog of Databricks workspace to  
 - `customer_features.csv` - Dataset containing 5,000 EMEA sales records with SKUs, revenue, and customer emails
 - `sales_transactions.csv` - Datset containing 2,000 customers with behavioral signals and a churn label
 
