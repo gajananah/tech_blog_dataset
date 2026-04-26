@@ -1,6 +1,6 @@
-# Accelerating Data Science and ML Workflows with Genie Code in Azure Databricks
+# Genie Code in Practice: A Hands-On Guide for ML and Data Science Teams on Azure Databricks
 
-This repository contains the code used to reproduce all results, and experiments from the article [Accelerating Data Science and ML Workflows with Genie Code in Azure Databricks](https://medium.com/henkel-data-and-analytics) for the Henkel Data & Analytics Blog. The article walks through what Genie Code (Databricks’ built-in AI assistant in Azure Databricks) can do, share some hands-on insights from using it, and highlight a few practical tips
+This repository contains the code used to reproduce all results, and experiments from the article [Genie Code in Practice: A Hands-On Guide for ML and Data Science Teams on Azure Databricks](https://medium.com/henkel-data-and-analytics) for the Henkel Data & Analytics Blog. The article walks through what Genie Code (Databricks’ built-in AI assistant in Azure Databricks) can do, share some hands-on insights from using it, and highlight a few practical tips
 
 ## Contents
 
